@@ -6,7 +6,7 @@ description: 'Community notes taken during a workshop by Chris Achard over fixin
 published: true
 author: 'Cayden Akins'
 ---
-Git will usually tells you what's wrong and how to fix it. Listen to the commands it gives you in the terminal/command line, it'll often solve your problems.
+Git will usually tell you what's wrong and how to fix it. Listen to the commands it gives you in the terminal/command line, it'll often solve your problems.
 
 `git status` is very useful when you want to see the overall view/assess your situation.
 - Always make sure if you have a modified file or untracked file to not make mistakes.
