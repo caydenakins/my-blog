@@ -6,28 +6,38 @@ description: 'Match times for Ace, Ashton, and Cayden posted here.'
 published: true
 author: 'Cayden Akins'
 ---
-Friday, 11:45 AM @ UTAG - Men's Singles Elite (CAYDEN)
-Friday, 5:20 PM @ REC - Men's Elite Doubles (CAYDEN)
-Friday, 6:25 PM @ UTAG - Men's Singles D (ASHTON)
-Saturday, 8:45 AM @ REC - Men's Elite Doubles (if wins previous match) (CAYDEN)
-Saturday, 8:45 AM @ REC - Junior 14 Singles (ASHTON)
-Saturday, 10:55 AM @ REC - Men's Singles Elite (if wins previous match) (CAYDEN)
-Saturday, 2:45 PM @ REC - Junior 12 Singles (ACE)
-Saturday, 4:50 PM @ REC - Men's Elite Doubles (if wins previous match) (CAYDEN)
-Saturday, 4:50 PM @ REC - Men's Singles D (ACE)
-Saturday, 5:50 PM @ UTAG - Men's Singles D (if wins previous match) (ASHTON)
-Saturday, 6:45 PM @ UTAG - Men's Singles Elite (if wins previous match) (CAYDEN)
-Saturday, 7:35 PM @ REC - Junior 12 Singles (ACE)
-Saturday, 8:35 PM @ UTAG - Junior 14 Singles (ASHTON)
-Saturday, 9:20 PM @ UTAG - Men's Singles D (if wins previous match) (ACE)
-Sunday, 8:00 AM @ UTAG - Junior 12 Singles (ACE)
-Sunday, 8:45 AM @ REC - Men's Singles Elite (if wins previous match) (CAYDEN)
-Sunday, 9:35 AM @ REC - Men's Singles D (if wins previous match) (ASHTON)
-Sunday, 9:35 AM @ UTAG - Men's Singles D (if wins previous match) (ACE)
-Sunday, 10:45 AM @ REC - Men's Elite Doubles (if wins previous match) (CAYDEN)
-Sunday, 10:45 AM @ REC - Junior 14 Singles (if wins group) (ASHTON)
-Sunday, 12:00 PM @ REC - Junior 12 Singles (ACE)
-Sunday, 1:10 PM @ REC - Men's Singles Elite (if wins previous match) (CAYDEN)
-Sunday, 1:10 PM @ REC - Men's Singles D (if wins previous match) (ASHTON)
-Sunday, 1:10 PM @ REC - Men's Singles D (if wins previous match) (ACE)
-Sunday, 3:25 PM @ REC - Men's Elite Doubles (if wins previous match) (CAYDEN)
+[R2 Sports Link](https://www.r2sports.com/tourney/home.asp?TID=31338)
+
+# Friday
+
+**11:45 AM** UTAG (*Cayden*) - Men's Singles Elite  
+**5:20 PM** REC (*Cayden*)  - Men's Elite Doubles  
+**6:25 PM** UTAG (*Ashton*) - Men's Singles D  
+
+# Saturday
+
+**8:45 AM** REC (*Cayden*) - Men's Elite Doubles (if wins previous match)  
+**8:45 AM** REC (*Ashton*) - Junior 14 Singles  
+**10:55 AM** REC (*Cayden*) - Men's Singles Elite (if wins previous match)  
+**2:45 PM** REC (*Ace*) - Junior 12 Singles  
+**4:50 PM** REC (*Cayden*) - Men's Elite Doubles (if wins previous match)  
+**4:50 PM** REC (*Ace*) - Men's Singles D  
+**5:50 PM** UTAG (*Ashton*) - Men's Singles D (if wins previous match)  
+**6:45 PM** UTAG (*Cayden*) - Men's Singles Elite (if wins previous match)    
+**7:35 PM** REC (*Ace*) - Junior 12 Singles     
+**8:35 PM** UTAG (*Ashton*) - Junior 14 Singles    
+**9:20 PM** UTAG (*Ace*) - Men's Singles D (if wins previous match)  
+
+# Sunday
+
+**8:00 AM** UTAG (*Ace*) - Junior 12 Singles  
+**8:45 AM** REC (*Cayden*) - Men's Singles Elite (if wins previous match)   
+**9:35 AM** REC (*Ashton*) - Men's Singles D (if wins previous match)  
+**9:35 AM** UTAG (*Ace*) - Men's Singles D (if wins previous match)  
+**10:45 AM** REC (*Cayden*) - Men's Elite Doubles (if wins previous match)  
+**10:45 AM** REC (*Ashton*) - Junior 14 Singles (if wins group)  
+**12:00 PM** REC (*Ace*) - Junior 12 Singles  
+**1:10 PM** REC (*Cayden*) - Men's Singles Elite (if wins previous match)  
+**1:10 PM** REC (*Ashton*) - Men's Singles D (if wins previous match)  
+**1:10 PM** REC (*Ace*) - Men's Singles D (if wins previous match)  
+**3:25 PM** REC (*Cayden*) - Men's Elite Doubles (if wins previous match)   
